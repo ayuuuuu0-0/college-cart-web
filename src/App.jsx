@@ -1,4 +1,4 @@
-import { Faq } from "./sections/faq";
+import { Faq } from "./sections/Faq";
 import { Features } from "./sections/Features";
 import { Footer } from "./sections/Footer";
 import { Header } from "./sections/Header";
