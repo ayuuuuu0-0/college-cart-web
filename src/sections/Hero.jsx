@@ -16,7 +16,9 @@ export const Hero = () => {
               surprisingly powerful.
             </p>
             <LinkScroll to="features" offset={-100} spy smooth>
-              <Button icon="/images/zap.svg">Download now</Button>
+              <Button icon="/images/zap.svg" download="/download/cc.apk">
+                Download now
+              </Button>
             </LinkScroll>
           </div>
           <div className="absolute top-24 md:left-[calc(70%-250px)] lg:left-[calc(70%-250px)] xl:left-[calc(70%-150px)] sm:left-[calc(70%-150px)] max-sm:top-34 max-sm:right-[calc(20%-450px)] transform -translate-x-1/6 justify-end pointer-events-non">

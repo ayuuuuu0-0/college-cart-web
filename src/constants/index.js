@@ -2,23 +2,23 @@ export const features = [
   {
     id: "0",
     icon: "/images/feature-1.png",
-    caption: "Easy integration",
-    title: "Work smarter not harder",
-    text: "With Xora, tedious tasks are history. Automation and smart processes bring your productivity to new heights. It's like having an extra cup of coffee, but without the jitters.",
+    caption: "Post and Share Easily",
+    title: "Effortless Uploading",
+    text: "With our app, uploading items for sale or giveaway is as simple as a few taps. Share books, notes, gadgets, and more with your college community instantly.",
     button: {
       icon: "/images/magictouch.svg",
-      title: "Watch the demo",
+      title: "Get Started",
     },
   },
   {
     id: "1",
     icon: "/images/feature-2.png",
-    caption: "Secure & trustworthy",
-    title: "Sleep easy, we got your back",
-    text: "Your data security is our priority. With state-of-the-art encryption and robust privacy controls, Xora helps keeps your information secure and locked up tighter than Fort Knox.",
+    caption: "Direct Messaging",
+    title: "Connect with Interested Buyers",
+    text: "Our integrated messaging system allows potential buyers to reach out directly through the app, making conversations and negotiations seamless and private.",
     button: {
       icon: "/images/docs.svg",
-      title: "Read the docs",
+      title: "Learn More",
     },
   },
 ];
@@ -27,85 +27,73 @@ export const details = [
   {
     id: "0",
     icon: "/images/detail-1.png",
-    title: "AI automated video editing",
+    title: "Sell and Give Away College Items",
   },
   {
     id: "1",
     icon: "/images/detail-2.png",
-    title: "Collaborate with your team",
+    title: "Direct Messaging for Easy Communication",
   },
   {
     id: "2",
     icon: "/images/detail-3.png",
-    title: "Ultra fast cloud-engine",
+    title: "Manage Listings Effortlessly",
   },
   {
     id: "3",
     icon: "/images/detail-4.png",
-    title: "24 / 7 Customer support",
+    title: "Notifications for Interested Parties",
   },
 ];
 
 export const faq = [
   {
     id: "0",
-    question: "How easy is it to setup Xora?",
+    question: "How do I upload an item for sale?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Uploading an item is easy! Just click on the 'Upload' button, fill out the necessary details, add images, and your listing will be live in no time.",
   },
   {
     id: "1",
-    question: "Can I integrate Xora with other platforms?",
+    question: "Can I chat with potential buyers within the app?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Yes! Our built-in messaging feature allows you to communicate directly with potential buyers, making the negotiation process convenient and secure.",
   },
   {
     id: "2",
-    question: "How often do you add new content?",
+    question: "Is there any fee for using the app?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Currently, our app is free to use for students. We aim to support college communities by providing this platform at no cost.",
   },
   {
     id: "3",
-    question: "What your refund policy?",
+    question: "What types of items can I upload?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "You can upload a variety of college-related items such as books, notes, electronics, and even furniture. Just make sure it aligns with our community guidelines.",
   },
   {
     id: "4",
-    question: "Do you have corporate plans?",
+    question: "How do I mark an item as sold?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Once your item is sold, you can mark it as sold from your listings section to inform other users that it's no longer available.",
   },
   {
     id: "5",
-    question: "What happens when I’m out of storage?",
+    question: "Can I delete my listing?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Yes, you can delete any of your active listings at any time by navigating to your profile and managing your items.",
   },
   {
     id: "6",
-    question: "Can I upgrade my plan?",
+    question: "Is my personal information safe?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Absolutely. We prioritize user privacy and employ robust security measures to keep your data safe.",
   },
   {
     id: "7",
-    question: "How do I invite my team?",
+    question: "How do I receive notifications for new messages?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
-  },
-  {
-    id: "8",
-    question: "Do you offer training for individuals and teams?",
-    answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
-  },
-  {
-    id: "9",
-    question: "I’m locked out of my account what do I do?",
-    answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "You will receive in-app notifications as well as optional email alerts whenever someone messages you regarding an item.",
   },
 ];
 

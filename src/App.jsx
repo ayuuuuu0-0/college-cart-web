@@ -1,5 +1,6 @@
 import { Faq } from "./sections/faq";
 import { Features } from "./sections/Features";
+import { Footer } from "./sections/Footer";
 import { Header } from "./sections/Header";
 import { Hero } from "./sections/Hero";
 
@@ -10,6 +11,7 @@ const App = () => {
       <Hero />
       <Features />
       <Faq />
+      <Footer />
     </main>
   );
 };
