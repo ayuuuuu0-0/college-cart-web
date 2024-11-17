@@ -75,7 +75,7 @@ export const faq = [
     id: "4",
     question: "How do I mark an item as sold?",
     answer:
-      "Once your item is sold, you can mark it as sold from your listings section to inform other users that it's no longer available.",
+      "Once your item is sold, you can remove it from your listings section so that it's no longer available.",
   },
   {
     id: "5",
@@ -91,9 +91,9 @@ export const faq = [
   },
   {
     id: "7",
-    question: "How do I receive notifications for new messages?",
+    question: "How do I find my desired product from all the listings?",
     answer:
-      "You will receive in-app notifications as well as optional email alerts whenever someone messages you regarding an item.",
+      "You can search for specific items using our search feature, to find exactly what you're looking for.",
   },
 ];
 
@@ -102,24 +102,24 @@ export const socials = [
     id: "0",
     title: "x",
     icon: "/images/socials/x.svg",
-    url: "#",
+    url: "https://x.com/Ayuuuu_25",
   },
   {
     id: "1",
-    title: "Threads",
-    icon: "/images/socials/threads.svg",
-    url: "#",
+    title: "LinkedIn",
+    icon: "/images/socials/linkedin.svg",
+    url: "https://www.linkedin.com/in/ayush-ranjan019/",
   },
   {
     id: "2",
     title: "Instagram",
     icon: "/images/socials/instagram.svg",
-    url: "#",
+    url: "https://www.instagram.com/ayusssshhhhhh_/",
   },
   {
     id: "3",
     title: "Discord",
     icon: "/images/socials/discord.svg",
-    url: "#",
+    url: "https://discord.com/users/753159553649999914",
   },
 ];
